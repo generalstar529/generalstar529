@@ -7,7 +7,7 @@
 - <b>Databases</b>: MongoDB, MySQL, SQLite, PostgreSQL
 - <b>Test</b>: Jest, Cypress, Puppeteer, Playwright
 - <b>Cloud</b>: AWS, GCP, Azure
-- <b>Tools</b>: Git, GitHub, Gitlab, Bitbucket, Netlify, Heroku, Vercel, Trello, Jira, Asana, Microsoft Teams, Slack, Zoom
+- <b>Tools</b>: Git, GitHub, GitLab, Bitbucket, Netlify, Heroku, Vercel, Trello, Jira, Asana, Microsoft Teams, Slack, Zoom
 
 
 <p align = "center">
